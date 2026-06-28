@@ -1,0 +1,9 @@
+Skup,k,Najbolji model,CV mean,Test accuracy
+all,3,SVM (RBF),0.9923,0.993
+all,4,SVM (RBF),0.9916,0.9916
+all,5,SVM (RBF),0.989,0.9916
+all,6,Random Forest,0.9881,0.9909
+complete,3,Logistic Regression,0.9912,0.9767
+complete,4,KNN,0.9883,1.0
+complete,5,SVM (RBF),0.9971,1.0
+complete,6,Random Forest,0.9796,1.0

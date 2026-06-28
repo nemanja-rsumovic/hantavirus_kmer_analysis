@@ -1,0 +1,6 @@
+Algoritam,CV mean,CV std,Test accuracy
+Random Forest,0.9796,0.0284,1.0
+Logistic Regression,0.9971,0.0059,1.0
+SVM (RBF),0.9941,0.0118,0.9884
+KNN,0.9473,0.0239,0.9767
+Gradient Boosting,0.9853,0.0161,0.9767
